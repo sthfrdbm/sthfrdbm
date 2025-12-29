@@ -6,8 +6,8 @@
 - also enthusiast in Sport & Business 
 
 ## My skills
-- Programming Language: Phyton, JavaScript
-- Working Tools: Github, Figma, Notion
+- Programming Language: JavaScript, Python
+- Working Tools: Figma, Notion, Github
 
 ## My Contact
 - Links: https://linktr.ee/willow.whisper
