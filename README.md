@@ -1,5 +1,5 @@
 ## Hello there, I'm sthfrdbm 👋
-#### I'am Sthaford Mamahit The 2nd Year College Student|Majoring in informatics Universitas Klabat, North Sulawesi - Indonesia
+#### I'am Sthaford Mamahit, The 2nd Year College Student|Majoring in informatics Universitas Klabat, North Sulawesi - Indonesia
 
 ## About me
 - I'm Interested in Information Technology (Informatics & Graphic Visual Communication Design) 
